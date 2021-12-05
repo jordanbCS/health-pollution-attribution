@@ -2,13 +2,6 @@
 
 The goal of this project is to connect individual health measures with geographically localized sources of pollution. 
 
-## Requirements/Dependencies  
-
-### PyDna  
-"Detection and Attribution framework in python using the Optimal Fingerprinting Approach (Hasselmann, 1993; Ribes et al. 2013)" - 
-https://github.com/pinplex/PyDnA.git    
-
-
 ## Data  
 
 Three types of data are needed: neighbourhood level pollution maps, individual health measures, and individual location coordinates.   
@@ -27,12 +20,30 @@ Example review: https://publiclab.org/notes/bhamster/01-05-2021/wrapping-up-an-a
 
 #### Heart rate  
 
+Smoke inhalation should be correlated with changes in heart rate, mainly as a confirming measure of the location and smoke map data.
+
 #### Sleep quality  
+
+Changes in sleep quality correlated with smokier days, could be a measure that connects to changes in income the following day.  
+
+#### Miscellaneous disease growth rates  
+
+Addition columns to manually enter measurements of some of other health indicator, like changes in tumour size betweem two dates. 
 
 ### Individual location data (time series, geospatial)
 
 #### Own tracks  
 
-GPS data logged from Android device - https://github.com/owntracks/android   
+GPS data logged from Android/ios devices - https://github.com/owntracks   
 
+## Modeling  
 
+JB: My understanding of this so far is that detection and attribution can be thought of as multiple regression, where the outcome variable is a health outcome, but the range of the input predictors are estimated by something more like a numeric process model (think global climate simulation, where the input parameters have themselves been estimated for a set simulations. - https://arxiv.org/pdf/2012.04200.pdf  
+
+### PyDna  
+"Detection and Attribution framework in python using the Optimal Fingerprinting Approach (Hasselmann, 1993; Ribes et al. 2013)" - 
+https://github.com/pinplex/PyDnA.git    
+
+## Legal precedents    
+ - https://decisions.civilresolutionbc.ca/crt/crtd/en/item/484448/index.do?q=Wood+smoke  
+ - https://web.archive.org/web/20080705112031/http://www.woodburnersmoke.net/  
