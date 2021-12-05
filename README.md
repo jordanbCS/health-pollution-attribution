@@ -44,6 +44,10 @@ JB: My understanding of this so far is that detection and attribution can be tho
 "Detection and Attribution framework in python using the Optimal Fingerprinting Approach (Hasselmann, 1993; Ribes et al. 2013)" - 
 https://github.com/pinplex/PyDnA.git    
 
+### Possible package file to a city simulator  
+
+Would need a city simulator that provides an API for individual citizens to be tracked.
+
 ## Legal precedents    
  - https://decisions.civilresolutionbc.ca/crt/crtd/en/item/484448/index.do?q=Wood+smoke  
  - https://web.archive.org/web/20080705112031/http://www.woodburnersmoke.net/  
