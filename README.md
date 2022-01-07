@@ -48,7 +48,7 @@ https://github.com/pinplex/PyDnA.git
 
 ### Possible package file to a city simulator  
 
-Would need a city simulator that provides an API for individual citizens to be tracked.
+Would need a city simulator that provides an API for citizens to be modeled with the right distributions.
 
 ## Legal precedents    
  - https://decisions.civilresolutionbc.ca/crt/crtd/en/item/484448/index.do?q=Wood+smoke  
