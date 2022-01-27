@@ -40,7 +40,7 @@ GPS data logged from Android/ios devices - https://github.com/owntracks
 
 ## Modeling  
 
-JB: My understanding of this so far is that detection and attribution can be thought of as multiple regression, where the outcome variable is a health outcome, but the range of the input predictors are estimated by something more like a numeric process model (think global climate simulation, where the input parameters have themselves been estimated for a set simulations. - https://arxiv.org/pdf/2012.04200.pdf  
+Detection and attribution can be thought of as multiple regression, where the outcome variable is a health outcome, but the range of the input predictors are estimated by something more like a numeric process model (think global climate simulation, where the input parameters have themselves been estimated for a set simulations). - https://arxiv.org/pdf/2012.04200.pdf  
 
 ### PyDna  
 "Detection and Attribution framework in python using the Optimal Fingerprinting Approach (Hasselmann, 1993; Ribes et al. 2013)" - 
