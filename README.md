@@ -50,6 +50,12 @@ https://github.com/pinplex/PyDnA.git
 
 Would need a city simulator that provides an API for citizens to be modeled with the right distributions.
 
+## Existing related monetary scales and valuations  
+
+ - "Health Impact Scale for Air Quality Improvements in the Canadian Lower Fraser Valley Airshed" - restrictions on wodd burning appliances is valued at $438M/per year in Metro Vancouver (2019).
+   - http://www.metrovancouver.org/services/air-quality/AirQualityPublications/HealthImpactScaleforAirQualityImprovementsintheCanadianLowerFraserValleyAirshed.pdf  
+
+
 ## Legal precedents    
  - https://decisions.civilresolutionbc.ca/crt/crtd/en/item/484448/index.do?q=Wood+smoke  
  - https://web.archive.org/web/20080705112031/http://www.woodburnersmoke.net/  
