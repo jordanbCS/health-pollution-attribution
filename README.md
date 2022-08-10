@@ -55,7 +55,15 @@ Would need a city simulator that provides an API for citizens to be modeled with
  - "Health Impact Scale for Air Quality Improvements in the Canadian Lower Fraser Valley Airshed" - restrictions on wodd burning appliances is valued at $438M/per year in Metro Vancouver (2019).
    - http://www.metrovancouver.org/services/air-quality/AirQualityPublications/HealthImpactScaleforAirQualityImprovementsintheCanadianLowerFraserValleyAirshed.pdf  
 
+## Related projects  
+
+ - Link has been removed but this alluded to a global real time pollution map: https://www.reddit.com/r/ClimateOffensive/comments/vm3ju2/i_have_created_a_web_visualization_that_shows_for/    
+
+## Other  
+
+Data sources and refence material page like this: https://earth.nullschool.net/about.html   
 
 ## Legal precedents    
  - https://decisions.civilresolutionbc.ca/crt/crtd/en/item/484448/index.do?q=Wood+smoke  
  - https://web.archive.org/web/20080705112031/http://www.woodburnersmoke.net/  
+
