@@ -63,7 +63,9 @@ Would need a city simulator that provides an API for citizens to be modeled with
 
 Data sources and refence material page like this: https://earth.nullschool.net/about.html   
 
-## Legal precedents    
+## Legal precedents   
+
+ - A Mystery in the Air --- SCIENCE VS: https://gimletmedia.com/shows/science-vs/94hxnjn    
  - https://decisions.civilresolutionbc.ca/crt/crtd/en/item/484448/index.do?q=Wood+smoke  
  - https://web.archive.org/web/20080705112031/http://www.woodburnersmoke.net/  
 
