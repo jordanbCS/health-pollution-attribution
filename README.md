@@ -66,6 +66,8 @@ Data sources and refence material page like this: https://earth.nullschool.net/a
 ## Legal precedents   
 
  - A Mystery in the Air --- SCIENCE VS: https://gimletmedia.com/shows/science-vs/94hxnjn    
+   - "Global first as British girl’s death certificate lists air pollution as a cause of death
+18 December 2020, London: In what is believed to be a global first, Deputy Coroner Phillip Barlow ruled on Wednesday that Ella Adoo-Kissi-Debrah, a 9 year-old girl who lived just 25m from the South Circular in South London, died in February 2013 as a direct result of air pollution...Reading aloud his verdict, Philip Barlow said that he believed air pollution made a “material contribution to Ella’s death”. She was exposed to levels of nitrogen dioxide and particulate matter in excess of World Health Organisation guidelines. The level of air pollution she was exposed to was therefore excessive. The principal source of her exposure was traffic emissions." https://chambers.com/articles/extraordinary-landmark-inquest-rules-air-pollution-contributed-to-death-of-ella-adoo-kissi-debrah   
  - https://decisions.civilresolutionbc.ca/crt/crtd/en/item/484448/index.do?q=Wood+smoke  
  - https://web.archive.org/web/20080705112031/http://www.woodburnersmoke.net/  
 
